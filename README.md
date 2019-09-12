@@ -2,23 +2,25 @@
 
 # 𝔸𝕣𝕣𝕒𝕪 𝟙
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet9/blob/master/Array1.png)
-
+# Program tersebut menggunakan array single dimensi
 
 # 𝔸𝕣𝕣𝕒𝕪 𝟚
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet9/blob/master/Array2.png)
-
+# Program tersebut menggunakan array single dimensi
 
 # 𝔸𝕣𝕣𝕒𝕪 𝟛
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet9/blob/master/Array3.png)
-
+# Program tersebut menggunakan array multi dimensi
 
 # 𝔸𝕣𝕣𝕒𝕪 𝟜
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet9/blob/master/Array4.png)
-
+# Program tersebut menggunakan array multi dimensi
 
 # 𝔸𝕣𝕣𝕒𝕪 𝟝
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet9/blob/master/Array5.png)
-_
+# Maksud dari program ini :
+_Program tersebut menggunakan Array multi dimensi yang di program untuk memunculkan 
+Nilai dari index 1 hingga 3
 
 
 # --ᴘʀᴀᴋᴛɪᴋᴜᴍ 1--
