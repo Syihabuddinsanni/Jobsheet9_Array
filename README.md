@@ -20,10 +20,6 @@
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet9/blob/master/Array5.png)
 
 
-# 𝔸𝕣𝕣𝕒𝕪 𝟙
-![Alt text]()
-
-
 # --ᴘʀᴀᴋᴛɪᴋᴜᴍ 1--
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet9/blob/master/Praktikum1.png)
 
@@ -31,6 +27,6 @@
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet9/blob/master/Praktikum2.png)
 
 # ＝＝Ｃｈａｌｌａｎｇｅ １＝＝
-![Alt text](https://github.com/Syihabuddinsanni/Jobsheet9/blob/master/Challange1.java)
+![Alt text](https://github.com/Syihabuddinsanni/Jobsheet9/blob/master/Challange1.png)
 
 
