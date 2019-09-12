@@ -19,10 +19,12 @@ Program tersebut menggunakan array multi dimensi
 # 𝔸𝕣𝕣𝕒𝕪 𝟝
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet9/blob/master/Array5.png)
 # Maksud dari program ini :
-_Program tersebut menggunakan Array multi dimensi yang di program untuk memunculkan 
-Nilai dari index 1 hingga 3
-
-
+_Program tersebut menggunakan Array multi dimensi yang di dalamnya terdapat sebuah
+variabel yang menyimpan sekumpulan data yang memiliki tipe sama dan elemen yang
+akan diakses melalui banyak index. Yang pertama_  " int [] [] [] nilai "
+_Code tersebut adalah Index Array. Kemudian menggunakan for_ i<nilai.length _LENGTH" 
+adalah code yang berfungsin untuk mengukur panjang array. Lalu ada_ System.out.print 
+_code tersebut berfungsi untuk mencetak hasil dari proses tadi_
 # --ᴘʀᴀᴋᴛɪᴋᴜᴍ 1--
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet9/blob/master/Praktikum1.png)
 # Mengapa terjadi error ?
